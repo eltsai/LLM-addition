@@ -11,7 +11,7 @@ All figures from the main body of the paper can be reproduced using GPT-J in `pa
 
 All required libraries are listed in `requirements.txt`.
 
-There are two pre-generated data folders downloadable on [Dropbox](https://www.dropbox.com/scl/fo/j0rx5kxzb9ucazftdvj0k/AE8wR9HzN5QqgPwE8hOrxKU?rlkey=hiwxmvrh6cbz2tqqqjpisnnel&st=grs5hqn1&dl=0) for reproducing all results in `paper_figures.ipynb`. These include model activations and helical fits.
+There are two pre-generated data folders downloadable on [Dropbox](https://www.dropbox.com/scl/fo/j0rx5kxzb9ucazftdvj0k/AE8wR9HzN5QqgPwE8hOrxKU?rlkey=hiwxmvrh6cbz2tqqqjpisnnel&st=m7egpwlq&dl=0) for reproducing all results in `paper_figures.ipynb`. These include model activations and helical fits.
 
 ## Contact and Citation
 For questions, please reach out to me at subhashk@mit.edu
